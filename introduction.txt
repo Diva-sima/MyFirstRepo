@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+[Write 1-2 paragraphs about yourself here. For example:]
+
+Hello! My name is [Your Name] and I'm currently learning about version control and GitHub. I'm excited to start my journey in software development and collaboration using Git and GitHub.
+
+This introduction file is part of my first GitHub repository, where I'm practicing the basics of creating repositories, adding files, and making commits. I look forward to building more projects and contributing to the open-source community as I continue learning.
